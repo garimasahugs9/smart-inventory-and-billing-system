@@ -1,1 +1,0 @@
-A dictionary is ideal because it stores key-value pairs.
