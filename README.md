@@ -11,7 +11,8 @@ A Streamlit web app for managing a small business's customers, products, and sal
 
 
 ### Customer Management
-![Customer Management](screenshots/customers.png)
+<img width="1920" height="980" alt="customers" src="https://github.com/user-attachments/assets/51f1dc6f-33f1-4e15-8611-9700886fbfe1" />
+
 
 ### Product Management
 ![Product Management](screenshots/products.png)
