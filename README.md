@@ -15,10 +15,12 @@ A Streamlit web app for managing a small business's customers, products, and sal
 
 
 ### Product Management
-![Product Management](screenshots/products.png)
+<img width="1920" height="980" alt="products_1" src="https://github.com/user-attachments/assets/947085f9-ceb1-4ffe-8d65-e272f977bd8d" />
+
 
 ### Sales Management
-![Sales Management](screenshots/sales.png)
+<img width="1920" height="980" alt="sales" src="https://github.com/user-attachments/assets/3d17968b-ec7f-4f6c-9d85-a157f26dc73a" />
+
 
 ### Analytics & Reports
 | Sales Summary | Daily Sales Trend |
