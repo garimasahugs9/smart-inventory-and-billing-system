@@ -3,6 +3,7 @@ from Products import Product
 from Sales import Sale
 
 
+
 def main_menu():
 
     customer = Customer()
