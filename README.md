@@ -25,7 +25,11 @@ A Streamlit web app for managing a small business's customers, products, and sal
 ### Analytics & Reports
 | Sales Summary | Daily Sales Trend |
 |---|---|
-| ![Sales Summary](screenshots/analytics-summary.png) | ![Daily Sales Trend](screenshots/analytics-trend.png) |
+| ![Sales Summary](
+
+) | ![Daily Sales Trend](<img width="1920" height="980" alt="analytics-summary_1" src="https://github.com/user-attachments/assets/854494b7-baa4-42af-a0dc-109c45491192" />
+
+) |
 
 | Top Selling Products | Customer Purchase History |
 |---|---|
